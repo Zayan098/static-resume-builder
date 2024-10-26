@@ -1,0 +1,18 @@
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: rgba(50, 50, 221, 0.66);
+}
+/* // git init
+// git remote add origin https://github.com/Zayan098/tailwind-portfolio.git
+// git add .
+// git commit -m "first commit"
+// git push -u origin main */
